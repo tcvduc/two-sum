@@ -6,4 +6,5 @@ Version: 1.0.0
 
 Result
 
-<img width="413" alt="1" src="https://github.com/tcvduc/two-sum/assets/44729657/58abe02c-83e2-44c5-ab72-37c16689dac8">
+<img width="275" alt="1" src="https://github.com/tcvduc/two-sum/assets/44729657/550238bc-ea21-4f2e-a289-da90620ac0c9">
+
