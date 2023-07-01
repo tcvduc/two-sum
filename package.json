@@ -1,0 +1,28 @@
+{
+  "name": "two-sum",
+  "version": "1.0.0",
+  "description": "Two Sum Application Use For Add Two Number",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcvduc/two-sum.git"
+  },
+  "keywords": [
+    "Two",
+    "Sum",
+    "Application"
+  ],
+  "author": "Trinh Cao Van Duc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcvduc/two-sum/issues"
+  },
+  "homepage": "https://github.com/tcvduc/two-sum#readme",
+  "devDependencies": {
+    "electron": "^25.2.0"
+  }
+}

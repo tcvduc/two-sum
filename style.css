@@ -1,0 +1,67 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.layer {
+  width: 100vw;
+  height: 100vh;
+}
+
+.appTitle {
+  padding: 12px 36px;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.numberTitle {
+  font-weight: 500;
+}
+
+.layerSum {
+  padding: 0 36px;
+  height: 224px;
+  display: flex;
+  flex-direction: column;
+}
+
+input[type="number"] {
+  margin-top: 12px;
+  width: 100%;
+  padding: 6px;
+}
+
+.buttonAdd {
+  margin-top: 12px;
+  padding: 6px;
+  background-color: cornflowerblue;
+  font-weight: 500;
+  border: none;
+  font-size: 20px;
+  border-radius: 3px;
+  cursor: pointer;
+  color: #fff;
+}
+
+.buttonAdd:hover {
+  background-color: rgb(130, 168, 237);
+}
+
+.buttonAdd:active {
+  background-color: rgb(83, 136, 233);
+}
+
+.number2Group {
+  margin-top: 12px;
+}
+
+.layerResult {
+  padding: 0px 36px;
+}
+
+.resultTitle {
+  font-size: 20px;
+  font-weight: 500;
+}
